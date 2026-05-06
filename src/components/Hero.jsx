@@ -9,7 +9,7 @@ export default function Hero() {
       {/* Background photo */}
       <div className="absolute inset-0">
         <img
-          src="/20250522_163256.jpg"
+          src={`${process.env.PUBLIC_URL}/20250522_163256.jpg`}
           alt=""
           className="w-full h-full object-cover object-top"
         />

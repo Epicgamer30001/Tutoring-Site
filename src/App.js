@@ -4,6 +4,7 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import Subjects from "./components/Subjects";
 import Awards from "./components/Awards";
+import Testimonials from "./components/Testimonials";
 import Rates from "./components/Rates";
 import Footer from "./components/Footer";
 
@@ -15,6 +16,7 @@ function App() {
       <About />
       <Subjects />
       <Awards />
+      <Testimonials />
       <Rates />
       <Footer />
     </div>
