@@ -4,7 +4,7 @@ import { useInView } from "../hooks/useInView";
 const tabs = [
   {
     label: "Background",
-    content: "I'm a graduate of Burnaby Mountain Secondary school, and current I'm a University of Toronto Engineering Science student offering math and physics tutoring. I've been tutoring for over 3 years, working with students from Pre-Calculus 10 all the way up to university Calculus-Based Physics. Outside of tutoring, I'm currently doing volunteer research at SFU which keeps me close to the material and gives me a real-world perspective on everything I teach.",
+    content: "I'm currently a University of Toronto Engineering Science student offering math and physics tutoring. I've been tutoring for over 3 years, working with students from Pre-Calculus 10 all the way up to university Calculus-Based Physics. Outside of tutoring, I'm currently doing volunteer research at SFU which keeps me close to the material and gives me a real-world perspective on everything I teach.",
   },
   {
     label: "My Approach",
@@ -32,8 +32,8 @@ export default function About() {
           <span className="text-xs font-semibold tracking-widest uppercase text-slate-400 block mb-4">
             About Me
           </span>
-          <h2 className="text-3xl sm:text-4xl font-extrabold text-[#0f1b3d] mb-8 leading-tight">
-            A tutor who actually gets it
+          <h2 className="text-3xl sm:text-4xl font-extrabold text-[#0f1b3d] mb-8">
+            Hi, I'm Alvin.
           </h2>
 
           {/* Tab buttons */}

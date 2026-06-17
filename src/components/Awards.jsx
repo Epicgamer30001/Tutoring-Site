@@ -16,7 +16,6 @@ const apScores = [
 const achievements = [
   "Top Student Award — Pre-Calculus 12",
   "Top Student Award — AP Calculus",
-  "Top Student Award — Pre-Calculus 12",
   "UofT Engineering — GPA 3.93 out of 4",
   "A+ in University Calculus I & II",
 ];

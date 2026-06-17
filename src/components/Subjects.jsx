@@ -14,7 +14,7 @@ const subjects = [
   {
     level: "University",
     title: "University Calculus I & II",
-    desc: "A and A+ at UofT Engineering. Limits, derivatives, integrals, sequences, series — and how to handle the pace of university math.",
+    desc: "Limits, derivatives, integrals, sequences, series — and how to handle the pace of university math. All of these concepts become fascinating once you comprehensively understand them.",
   },
   {
     level: "High School",

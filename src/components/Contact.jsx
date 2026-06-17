@@ -39,7 +39,7 @@ export default function Contact() {
             </div>
             <div className="border-t border-slate-100 pt-5">
               <p className="text-slate-400 text-xs uppercase tracking-wider mb-1">Availability</p>
-              <p className="text-[#0f1b3d] font-medium">Summer 2025 — open for bookings</p>
+              <p className="text-[#0f1b3d] font-medium">Open for bookings</p>
             </div>
           </div>
         </div>

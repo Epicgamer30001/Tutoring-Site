@@ -90,11 +90,11 @@ export default function Rates() {
                 </div>
                 <div className="py-5 border-b border-white/10">
                   <p className="text-white/30 text-xs uppercase tracking-wider mb-1">Location</p>
-                  <p className="text-white font-medium">Surrey, BC — flexible with location</p>
+                  <p className="text-white font-medium">Surrey, BC — flexible with location/online sessions</p>
                 </div>
                 <div className="py-5">
                   <p className="text-white/30 text-xs uppercase tracking-wider mb-1">Availability</p>
-                  <p className="text-white font-medium">Summer 2026 — open for bookings</p>
+                  <p className="text-white font-medium">Open for bookings</p>
                 </div>
               </div>
             </div>
